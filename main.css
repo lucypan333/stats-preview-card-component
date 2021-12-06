@@ -43,12 +43,14 @@ body{
 
 .static {
   color:hsl(0, 0%, 100%);
+  margin-bottom: 10px;
+  letter-spacing: 1px;
 }
 
 .static_topic {
   color: hsla(0, 0%, 100%, 0.75);
   text-transform: uppercase;
-  letter-spacing: 0.05em;
+  letter-spacing: 1px;
   font-size: 0.7rem;
 }
 
